@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5211?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOON NETWORK FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5199?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5047?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO EPTV CAMPINAS SD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5423?checkedby:iptvcat.com
